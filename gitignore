@@ -1,0 +1,7 @@
+__pycache__/
+.env
+import_streamlit_st.py  # Include only if this file exists
+output/
+*.pyc
+listings.db  # Optional: exclude the database file if you regenerate it
+
